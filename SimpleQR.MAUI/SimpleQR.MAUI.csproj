@@ -12,7 +12,6 @@
 		<SingleProject>True</SingleProject>
 		<PackageProjectUrl>https://github.com/eth-ellis/SimpleQR.MAUI</PackageProjectUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageTags>maui;ios;android,mac,windows,qr</PackageTags>
     <DebugType>portable</DebugType>
 		<IsPackable>true</IsPackable>
