@@ -4,15 +4,15 @@
 		<TargetFrameworks>net7.0-android;net7.0-maccatalyst;net7.0-ios</TargetFrameworks>
 		<TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net7.0-windows10.0.19041</TargetFrameworks>
 		<PackageId>SimpleQR.MAUI</PackageId>
-    <Title>SimpleQR.MAUI</Title>
-    <Description>Simple QR Code Generator for .NET MAUI</Description>
+		<Title>SimpleQR.MAUI</Title>
+		<Description>Simple QR Code Generator for .NET MAUI</Description>
 		<Authors>Ethan Ellis</Authors>
-    <Version>1.0.0</Version>
-    <UseMaui>True</UseMaui>
+		<Version>1.0.0</Version>
+		<UseMaui>True</UseMaui>
 		<SingleProject>True</SingleProject>
 		<PackageProjectUrl>https://github.com/eth-ellis/SimpleQR.MAUI</PackageProjectUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageTags>maui;ios;android,mac,windows,qr</PackageTags>
+		<PackageTags>maui;ios;android,mac,windows,qr</PackageTags>
 		<DebugType>portable</DebugType>
 		<IsPackable>true</IsPackable>
 	</PropertyGroup>
