@@ -2,6 +2,8 @@
 
 A simple solution for generating QR Codes in .NET MAUI.
 
+Based on https://github.com/Redth/ZXing.Net.Maui.
+
 # Setup
 
 1. Install the [SimpleQR.MAUI](https://www.nuget.org/packages/SimpleQR.MAUI) NuGet package into your project.
