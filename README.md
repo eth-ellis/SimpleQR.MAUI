@@ -25,7 +25,7 @@ builder
 ## Display a QR Code in your view
 
 ``` xaml
-xmlns:qr="clr-namespace:SimpleQR.MAUI;assembly=SimpleQR.MAUI"
+xmlns:qr="clr-namespace:SimpleQR.MAUI.Controls;assembly=SimpleQR.MAUI"
 ```
 
 ``` xaml
